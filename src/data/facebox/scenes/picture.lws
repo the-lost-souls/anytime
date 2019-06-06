@@ -1,0 +1,311 @@
+LWSC
+3
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 220
+PreviewFrameStep 1
+CurrentFrame 0
+FramesPerSecond 5
+
+LoadObjectLayer 1 F:PROJECTS/demo/data/facebox/objects/cyborg_render.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+AmbientColor 1 1 1
+AmbientIntensity 0
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -4.303967 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 6.0250001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -5.1921558 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.33335775 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.39095339 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 0.8470588 0.8627451 0.2627451
+LightIntensity 1
+AffectCaustics 1
+LightType 2
+LightConeAngle 35
+LightEdgeAngle 10
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 2
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 7.9768605 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -2.0999994 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -6.2645674 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.61086524 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.31415963 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 0.1254902 0.3921569 0.3843137
+LightIntensity 1
+LightType 2
+LightConeAngle 25
+LightEdgeAngle 10
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 2
+
+AddCamera
+CameraName Camera
+ShowCamera 1 7
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -5.4955316 0 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+Channel 1
+{ Envelope
+  1
+  Key -2.2749991 0 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+Channel 2
+{ Envelope
+  1
+  Key -9.6913471 0 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.46600288 0 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.30543268 0 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+
+ZoomFactor 3.3
+ResolutionMultiplier 1.0
+FrameSize 640 480
+PixelAspect 1
+MaskPosition 0 0 640 480
+MotionBlur 0
+FieldRendering 0
+
+ApertureHeight 0.015
+Antialiasing 3
+AdaptiveSampling 1
+AdaptiveThreshold 0.0627451
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 0.1568628 0.3137255
+SkyColor 0.4705882 0.7058824 0.9411765
+GroundColor 0.1960784 0.1568628 0.1176471
+NadirColor 0.3921569 0.3137255 0.2352941
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 1
+RayRecursionLimit 16
+DataOverlayLabel  
+
+ViewConfiguration 0
+DefineView 0
+ViewType 9
+ViewAimpoint 0 0 0
+ViewZoomFactor 9.000002
+
+GridNumber 40
+GridSize 5
+CameraViewBG 0
+ShowMotionPath 1
+ShowFogRadius 0
+ShowFogEffect 1
+ShowSafeAreas 0
+ShowFieldChart 0
+
+CurrentObject 0
+CurrentLight 1
+CurrentCamera 0
+GraphEditorData
+{ GraphEd_Favorites
+}
+{ GE_Expression_Lib
+  1
+}

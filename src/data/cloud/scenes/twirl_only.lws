@@ -1,0 +1,220 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 60
+PreviewFrameStep 1
+FramesPerSecond 5.000000
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 10 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+AddNullObject Twirl
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1 0 360 0 0 1 1.5 1
+  0 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 9 0 10 0 0 0.94 0.94 0.94
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 8 0 20 0 0 0.88 0.88 0.88
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 7 0 30 0 0 0.82 0.82 0.82
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 6 0 40 0 0 0.76 0.76 0.76
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 5 0 50 0 0 0.7 0.7 0.7
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 4 0 60 0 0 0.64 0.64 0.64
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 3 0 70 0 0 0.58 0.58 0.58
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2 0 90 0 0 0.52 0.52 0.52
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject F:\PROJECTS\demo\data\cloud\objects\twirl.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 1 0 99.99998 0 0 0.48 0.48 0.48
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName MirrorLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 2 8 0 -27.4 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 184 245 244
+LgtIntensity 1.000000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 1
+
+AddLight
+LightName MirrorLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 -2 8 0 27.4 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 184 245 244
+LgtIntensity 1.000000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  4
+  1.223202 17.45 -17.21579 -2.000015 20.2 0 1 1 1
+  0 0 0 0 0
+  9.201277 12.65 -12.84855 3.59999 22.2 0 1 1 1
+  20 0 0 0 0
+  -5.162771 21.85 -14.93453 3.199988 39.7 0 1 1 1
+  40 0 0 0 0
+  13.05404 18.15001 -1.587147 -52.1 27.90001 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 48
+ZoomFactor 2.000000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+ClipRayColors 0
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 1
+ViewAimpoint 5.656854 2.000000 5.656855
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.777777
+GridNumber 40
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

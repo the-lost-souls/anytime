@@ -1,0 +1,37 @@
+ 0.40816 s/Slag
+ 1.63265 s/Takt
+ 6.53061 s/4xTakt
+13.06122 s/8xTakt
+26.12245 s/16xTakt
+
+T = Takt
+S = Slag
+
+Deler:
+  0 -  16T: akkorder
+	 	tekst, muligens bakgrunn
+	Synch: 18S - doirtA
+		 26S - doirtA
+		 34S - doirtA
+		 50S - doirtA
+		 52S - doirtB (kanskje 51S)
+		 58S - doirtA
+		 16T - bang!
+
+ 16 -  24T: akkorder, melodi
+	Synch: 16T - bang
+		 18T - akkord
+		 19T - akkord
+		 20T - akkord
+		 22T - akkord
+		 23T - akkord
+		 24T - splash
+		 
+ 24 - 26T: melodi, akkorder, trommevirvel mot splash
+	Synch: 24T - symbalsplash
+		 26T - symbalsplash + dunk
+
+ 26 - 42T: melodi, trommer, akkorder, bass
+	Synch: 26T - symbalsplash + dunk
+		 34T - symbalsplash
+		 42T - trommevirvel mot symbalsplash 

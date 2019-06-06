@@ -1,0 +1,20 @@
+x - fix speilsnurring så det blir riktig
+- fix plate rundt faceboxgreia, så det ikke vises noe svart.
+x - fade til svart på slutten av mirrors
+x - fix mirror sånn at dill ikke går inni camera-widescreen-sak
+x - nytt kamerabane på soppdansings, andre klipp
+x - fix innfading av bilde på ansiktssaken slik at det funker med trommene. 
+x - fade ned på andre tunnel
+x - fade opp på ansikt.
+- bør ha et eller annet oppå den andre tunnelen. 
+x - flytt kamera i første sopp-klipp slik at det ikke går inni soppen
+x - sett opp fargene på speil-scenen
+x - sett opp fargene på pillars
+x - sett opp fargene på tunnel og greetings
+- sett opp lys på forest
+x - flytt lysene i pillars slik at det blir flere påler
+x - flash i pillars
+x - gjør klart objekt til tittelskjerm
+x - mirrors må fade ned før
+x - flash på greetings
+x - feil nedfading på face

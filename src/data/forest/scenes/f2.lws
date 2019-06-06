@@ -1,0 +1,830 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 5225
+PreviewFrameStep 1
+FramesPerSecond 400.000000
+
+LoadObject objects\_tree1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 3
+
+LoadObject objects\_ground.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject objects\_rock.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  610 20 900 0 0 0 0.5 0.5 0.5
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  54 -80 446 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  85 -80 470 146.9001 26.7 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  96 -80 360 80.39999 3.1 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  130 -80 400 -69.80002 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  54 -80 450 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  13
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  150 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  322 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  500 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+ParentObject 22
+UnseenByCamera 1
+ShadowOptions 7
+
+AddNullObject CameraNull1
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  590.5832 -51.3 33.99121 -63.39999 -30.1 0 1 1 1
+  0 0 0 0 0
+  538.9921 -42.19999 51.32629 -62.7 -44.60001 0 1 1 1
+  653 0 0 0 0
+  478.4052 -28.5 95.2247 -94.49999 -32.10001 0 1 1 1
+  1306 0 0 0 0
+  394.0579 -12.8 122.7967 -84.70001 -8.30001 0 1 1 1
+  1959 0 0 0 0
+  290.1743 29.00001 168.2041 -165.9 12.09999 0 1 1 1
+  2612 0 0 0 0
+EndBehavior 2
+LockedChannels 32
+ShadowOptions 7
+
+AddNullObject CameraNull2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 11832 0 0 90 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -71 -54 430 22 -4.8 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -69 -34 340 -35.1 -7.100001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -340 -61 200 31.2 -20 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -240 -33 200 -53.4 6.9 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  335 -26 64 57.7 -17 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  410 -30 81 -56.9 6.4 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  770 -120 570 -51.3 14.4 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  710 -110 530 47.8 -3.8 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  490 -35 -67 -43.6 -0.9 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_grass.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  420 -33 92 -21 -1 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+UnseenByCamera 1
+ShadowOptions 7
+
+AddNullObject MushroomParent1
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  109.598 -48.00001 337.9903 8.400002 33 -3.3 0.5 0.5 0.5
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject MushroomParent1
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  137 -29.5 302.9999 0 11.5 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ShadowOptions 7
+
+AddNullObject MushroomParent1
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  195 -33 310 5.5 29.40001 0 0.5 0.5 0.5
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject MushroomParent1
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  149 -47 350 8.400002 33 -3.3 0.5 0.5 0.5
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  100 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  317 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  427 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  643 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+ParentObject 23
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  13
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  150 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  322 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  500 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+ParentObject 24
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom1.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  14
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  158 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  326 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  490 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+ParentObject 25
+UnseenByCamera 1
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  174.5 -6 96.00001 0 -19.4 0 1.138 1.138 1.138
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  224.5 -17.5 70 0 -23.1 0 0.7620001 0.7620001 0.7620001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  177 5 157 8.1 -12.2 0 0.7100001 0.7100001 0.7100001
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  217 -4 123.5 10.4 -16.6 0 0.62 0.62 0.62
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  361.5 -23 100 -5.300001 6.9 0 1.124 1.124 1.124
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  479.5 -34 115 7.699997 13.6 0 0.892 0.892 0.892
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  479 -33.5 70.5 5.299999 13 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject MushroomParent2
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  533.0001 -46.50001 80.5 -68.69999 -9.099999 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  100 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  317 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  427 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  643 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 29
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  14
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  158 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  326 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  490 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 30
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  13
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  150 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  322 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  500 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 31
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  13
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  150 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  322 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  500 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 32
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  14
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  158 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  326 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  490 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 33
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  100 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  317 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  427 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  643 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 34
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  100 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  317 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  427 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  643 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 35
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject objects\_mushroom2.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  14
+  0 0 0 0 0 0 1.2 1.1 1.2
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  50 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  158 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  163 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  213 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  321 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  326 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  327 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  377 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  485 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  490 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  540 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  648 0 0 0 0
+  0 0 0 0 0 0 1.2 1.1 1.2
+  653 0 0 0 0
+EndBehavior 2
+ParentObject 36
+UnseenByCamera 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  543.2055 690.0999 -715.0887 -393.1996 52.29986 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 223 200 66
+LgtIntensity 1.000000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 5.000000
+ShadowType 2
+ShadowMapSize 4096
+UseConeAngle 1
+ShadowFuzziness 10.000000
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ParentObject 10
+ZoomFactor 1.000000
+Resolution 1
+CustomSize 1024 1024
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 1
+ClipRayColors 0
+RayRecursionLimit 16
+DataOverlayLabel  
+FullSceneParamEval 0
+
+ViewMode 5
+ViewAimpoint 290.174316 29.000010 168.204117
+ViewDirection -4.954988 -0.101229 0.000000
+ViewZoomFactor 0.953351
+GridNumber 40
+GridSize 20.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

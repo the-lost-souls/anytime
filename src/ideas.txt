@@ -1,0 +1,2 @@
+- 3D-dings som legges oppå bildet, kan så fade ut bakgrunnen og klippe til ny scene men beholde objektet. Kan bli en god
+overgang. 
